@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Acer Nitro 5\\Desktop\\Projeler\\sqflite_todo\\build\\fluttertoast\\intermediates\\merged_res\\release\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\Acer Nitro 5\\.gradle\\caches\\transforms-3\\1377ecc082df76fa18d0a5c00a428a5e\\transformed\\core-1.6.0\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer Nitro 5\\Desktop\\Projeler\\sqflite_todo\\build\\fluttertoast\\intermediates\\merged_res\\release\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\Acer Nitro 5\\.gradle\\caches\\transforms-3\\1377ecc082df76fa18d0a5c00a428a5e\\transformed\\core-1.6.0\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer Nitro 5\\Desktop\\Projeler\\sqflite_todo\\build\\fluttertoast\\intermediates\\merged_res\\release\\drawable\\toast_bg.xml",
+        "source": "C:\\Users\\Acer Nitro 5\\Documents\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\fluttertoast-8.0.9\\android\\src\\main\\res\\drawable\\toast_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer Nitro 5\\Desktop\\Projeler\\sqflite_todo\\build\\fluttertoast\\intermediates\\merged_res\\release\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Acer Nitro 5\\.gradle\\caches\\transforms-3\\1377ecc082df76fa18d0a5c00a428a5e\\transformed\\core-1.6.0\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer Nitro 5\\Desktop\\Projeler\\sqflite_todo\\build\\fluttertoast\\intermediates\\merged_res\\release\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\Acer Nitro 5\\.gradle\\caches\\transforms-3\\1377ecc082df76fa18d0a5c00a428a5e\\transformed\\core-1.6.0\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\Acer Nitro 5\\Desktop\\Projeler\\sqflite_todo\\build\\fluttertoast\\intermediates\\merged_res\\release\\drawable\\corner.xml",
+        "source": "C:\\Users\\Acer Nitro 5\\Documents\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\fluttertoast-8.0.9\\android\\src\\main\\res\\drawable\\corner.xml"
+    }
+]

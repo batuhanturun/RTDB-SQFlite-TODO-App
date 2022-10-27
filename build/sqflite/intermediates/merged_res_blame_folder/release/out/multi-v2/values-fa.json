@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Acer Nitro 5\\Desktop\\Projeler\\sqflite_todo\\build\\sqflite\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-fa\\values-fa.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Acer Nitro 5\\.gradle\\caches\\transforms-3\\1377ecc082df76fa18d0a5c00a428a5e\\transformed\\core-1.6.0\\res\\values-fa\\values-fa.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Acer Nitro 5\\Desktop\\Projeler\\sqflite_todo\\build\\sqflite\\intermediates\\merged_res\\release\\values-fa\\values-fa.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Acer Nitro 5\\.gradle\\caches\\transforms-3\\1377ecc082df76fa18d0a5c00a428a5e\\transformed\\core-1.6.0\\res\\values-fa\\values-fa.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

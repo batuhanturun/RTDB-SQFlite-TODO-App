@@ -1,0 +1,4 @@
+#Tue Sep 20 17:51:32 TRT 2022
+base.0=C\:\\Users\\Acer Nitro 5\\Desktop\\Projeler\\sqflite_todo\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

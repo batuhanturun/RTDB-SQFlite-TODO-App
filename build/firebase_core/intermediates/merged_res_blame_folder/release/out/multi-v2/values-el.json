@@ -1,0 +1,82 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Acer Nitro 5\\Desktop\\Projeler\\sqflite_todo\\build\\firebase_core\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-el\\values-el.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Acer Nitro 5\\.gradle\\caches\\transforms-3\\7a40f7771e6fe7310d328c9c8c840352\\transformed\\jetified-play-services-basement-18.0.0\\res\\values-el\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "195",
+                        "endColumns": "159",
+                        "endOffsets": "354"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "163",
+                        "endOffsets": "214"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Acer Nitro 5\\.gradle\\caches\\transforms-3\\1377ecc082df76fa18d0a5c00a428a5e\\transformed\\core-1.6.0\\res\\values-el\\values-el.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "219",
+                        "endColumns": "100",
+                        "endOffsets": "315"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Acer Nitro 5\\Desktop\\Projeler\\sqflite_todo\\build\\firebase_core\\intermediates\\merged_res\\release\\values-el\\values-el.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Acer Nitro 5\\.gradle\\caches\\transforms-3\\7a40f7771e6fe7310d328c9c8c840352\\transformed\\jetified-play-services-basement-18.0.0\\res\\values-el\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "195",
+                        "endColumns": "159",
+                        "endOffsets": "354"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "163",
+                        "endOffsets": "214"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Acer Nitro 5\\.gradle\\caches\\transforms-3\\1377ecc082df76fa18d0a5c00a428a5e\\transformed\\core-1.6.0\\res\\values-el\\values-el.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "219",
+                        "endColumns": "100",
+                        "endOffsets": "315"
+                    }
+                }
+            ]
+        }
+    ]
+}

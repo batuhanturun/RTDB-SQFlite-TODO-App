@@ -1,0 +1,563 @@
+<libraries>
+  <library
+      name="__local_aars__:C:\Users\Acer Nitro 5\Desktop\Projeler\sqflite_todo\build\app\intermediates\flutter\release\libs.jar:unspecified@jar"
+      jars="C:\Users\Acer Nitro 5\Desktop\Projeler\sqflite_todo\build\app\intermediates\flutter\release\libs.jar"
+      resolved="__local_aars__:C:\Users\Acer Nitro 5\Desktop\Projeler\sqflite_todo\build\app\intermediates\flutter\release\libs.jar:unspecified"/>
+  <library
+      name="C:\Users\Acer Nitro 5\Desktop\Projeler\sqflite_todo\android@@:firebase_auth::release"
+      jars="C:\Users\Acer Nitro 5\Desktop\Projeler\sqflite_todo\build\firebase_auth\.transforms\7839ec2787c97cb4fd1b7309c513362e\transformed\out\jars\classes.jar"
+      resolved="io.flutter.plugins.firebase.auth:firebase_auth:unspecified"
+      folder="C:\Users\Acer Nitro 5\Desktop\Projeler\sqflite_todo\build\firebase_auth\.transforms\7839ec2787c97cb4fd1b7309c513362e\transformed\out"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="C:\Users\Acer Nitro 5\Desktop\Projeler\sqflite_todo\android@@:firebase_database::release"
+      jars="C:\Users\Acer Nitro 5\Desktop\Projeler\sqflite_todo\build\firebase_database\.transforms\0c47a2b16eb8872622f7f0adaf4ca858\transformed\out\jars\classes.jar"
+      resolved="io.flutter.plugins.firebase.database:firebase_database:unspecified"
+      folder="C:\Users\Acer Nitro 5\Desktop\Projeler\sqflite_todo\build\firebase_database\.transforms\0c47a2b16eb8872622f7f0adaf4ca858\transformed\out"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="C:\Users\Acer Nitro 5\Desktop\Projeler\sqflite_todo\android@@:firebase_core::release"
+      jars="C:\Users\Acer Nitro 5\Desktop\Projeler\sqflite_todo\build\firebase_core\.transforms\831e77b99bfffe4662ea0e1e10006661\transformed\out\jars\classes.jar"
+      resolved="io.flutter.plugins.firebase.core:firebase_core:unspecified"
+      folder="C:\Users\Acer Nitro 5\Desktop\Projeler\sqflite_todo\build\firebase_core\.transforms\831e77b99bfffe4662ea0e1e10006661\transformed\out"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="C:\Users\Acer Nitro 5\Desktop\Projeler\sqflite_todo\android@@:sqflite::release"
+      jars="C:\Users\Acer Nitro 5\Desktop\Projeler\sqflite_todo\build\sqflite\.transforms\ea8d848cbdab7397cd46f8f3e8d4549c\transformed\out\jars\classes.jar"
+      resolved="com.tekartik.sqflite:sqflite:unspecified"
+      folder="C:\Users\Acer Nitro 5\Desktop\Projeler\sqflite_todo\build\sqflite\.transforms\ea8d848cbdab7397cd46f8f3e8d4549c\transformed\out"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="C:\Users\Acer Nitro 5\Desktop\Projeler\sqflite_todo\android@@:fluttertoast::release"
+      jars="C:\Users\Acer Nitro 5\Desktop\Projeler\sqflite_todo\build\fluttertoast\.transforms\0342133a4dd14b4ac95f5e2b1e5512dc\transformed\out\jars\classes.jar"
+      resolved="com.example.FlutterToast:fluttertoast:unspecified"
+      folder="C:\Users\Acer Nitro 5\Desktop\Projeler\sqflite_todo\build\fluttertoast\.transforms\0342133a4dd14b4ac95f5e2b1e5512dc\transformed\out"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="io.flutter:flutter_embedding_release:1.0.0-3efdf03e73dd352873fc5a7e1c0de04e52863b3a@jar"
+      jars="C:\Users\Acer Nitro 5\.gradle\caches\modules-2\files-2.1\io.flutter\flutter_embedding_release\1.0.0-3efdf03e73dd352873fc5a7e1c0de04e52863b3a\bd119926ad146dde0042eea0bbc28ac3fba13215\flutter_embedding_release-1.0.0-3efdf03e73dd352873fc5a7e1c0de04e52863b3a.jar"
+      resolved="io.flutter:flutter_embedding_release:1.0.0-3efdf03e73dd352873fc5a7e1c0de04e52863b3a"/>
+  <library
+      name="androidx.window:window-java:1.0.0-beta04@aar"
+      jars="C:\Users\Acer Nitro 5\.gradle\caches\transforms-3\25866ef12e9fc5e7ad5e2cefca825597\transformed\jetified-window-java-1.0.0-beta04\jars\classes.jar"
+      resolved="androidx.window:window-java:1.0.0-beta04"
+      folder="C:\Users\Acer Nitro 5\.gradle\caches\transforms-3\25866ef12e9fc5e7ad5e2cefca825597\transformed\jetified-window-java-1.0.0-beta04"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="androidx.window:window:1.0.0-beta04@aar"
+      jars="C:\Users\Acer Nitro 5\.gradle\caches\transforms-3\992c409fa2324ef5eeb324c08fe7ed56\transformed\jetified-window-1.0.0-beta04\jars\classes.jar"
+      resolved="androidx.window:window:1.0.0-beta04"
+      folder="C:\Users\Acer Nitro 5\.gradle\caches\transforms-3\992c409fa2324ef5eeb324c08fe7ed56\transformed\jetified-window-1.0.0-beta04"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="org.jetbrains.kotlinx:kotlinx-coroutines-android:1.5.2@jar"
+      jars="C:\Users\Acer Nitro 5\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlinx\kotlinx-coroutines-android\1.5.2\d246a704a55b7bddb79407cce4348890eaa341d9\kotlinx-coroutines-android-1.5.2.jar"
+      resolved="org.jetbrains.kotlinx:kotlinx-coroutines-android:1.5.2"/>
+  <library
+      name="org.jetbrains.kotlinx:kotlinx-coroutines-core-jvm:1.5.2@jar"
+      jars="C:\Users\Acer Nitro 5\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlinx\kotlinx-coroutines-core-jvm\1.5.2\f4cc07a50437659e0043e7da762809a46932b6a0\kotlinx-coroutines-core-jvm-1.5.2.jar"
+      resolved="org.jetbrains.kotlinx:kotlinx-coroutines-core-jvm:1.5.2"/>
+  <library
+      name="org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.5.30@jar"
+      jars="C:\Users\Acer Nitro 5\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib-jdk8\1.5.30\5fd47535cc85f9e24996f939c2de6583991481b0\kotlin-stdlib-jdk8-1.5.30.jar"
+      resolved="org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.5.30"/>
+  <library
+      name="org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.6.10@jar"
+      jars="C:\Users\Acer Nitro 5\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib-jdk7\1.6.10\e1c380673654a089c4f0c9f83d0ddfdc1efdb498\kotlin-stdlib-jdk7-1.6.10.jar"
+      resolved="org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.6.10"/>
+  <library
+      name="io.flutter:armeabi_v7a_release:1.0.0-3efdf03e73dd352873fc5a7e1c0de04e52863b3a@jar"
+      jars="C:\Users\Acer Nitro 5\.gradle\caches\modules-2\files-2.1\io.flutter\armeabi_v7a_release\1.0.0-3efdf03e73dd352873fc5a7e1c0de04e52863b3a\17d290f27c9302a5ee1d1c5bb9eadc7fa9ca487f\armeabi_v7a_release-1.0.0-3efdf03e73dd352873fc5a7e1c0de04e52863b3a.jar"
+      resolved="io.flutter:armeabi_v7a_release:1.0.0-3efdf03e73dd352873fc5a7e1c0de04e52863b3a"/>
+  <library
+      name="io.flutter:arm64_v8a_release:1.0.0-3efdf03e73dd352873fc5a7e1c0de04e52863b3a@jar"
+      jars="C:\Users\Acer Nitro 5\.gradle\caches\modules-2\files-2.1\io.flutter\arm64_v8a_release\1.0.0-3efdf03e73dd352873fc5a7e1c0de04e52863b3a\15b0ed9bf3968e0793ec624ee5935695b3d2ae96\arm64_v8a_release-1.0.0-3efdf03e73dd352873fc5a7e1c0de04e52863b3a.jar"
+      resolved="io.flutter:arm64_v8a_release:1.0.0-3efdf03e73dd352873fc5a7e1c0de04e52863b3a"/>
+  <library
+      name="io.flutter:x86_64_release:1.0.0-3efdf03e73dd352873fc5a7e1c0de04e52863b3a@jar"
+      jars="C:\Users\Acer Nitro 5\.gradle\caches\modules-2\files-2.1\io.flutter\x86_64_release\1.0.0-3efdf03e73dd352873fc5a7e1c0de04e52863b3a\b454942de6513f5ba810eba0f5453c14dd31bdd1\x86_64_release-1.0.0-3efdf03e73dd352873fc5a7e1c0de04e52863b3a.jar"
+      resolved="io.flutter:x86_64_release:1.0.0-3efdf03e73dd352873fc5a7e1c0de04e52863b3a"/>
+  <library
+      name="androidx.fragment:fragment:1.1.0@aar"
+      jars="C:\Users\Acer Nitro 5\.gradle\caches\transforms-3\cf3f1e995ee64512142dac983271d20d\transformed\fragment-1.1.0\jars\classes.jar"
+      resolved="androidx.fragment:fragment:1.1.0"
+      folder="C:\Users\Acer Nitro 5\.gradle\caches\transforms-3\cf3f1e995ee64512142dac983271d20d\transformed\fragment-1.1.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="androidx.viewpager:viewpager:1.0.0@aar"
+      jars="C:\Users\Acer Nitro 5\.gradle\caches\transforms-3\52731d36457b652527ddd3f03d369a99\transformed\viewpager-1.0.0\jars\classes.jar"
+      resolved="androidx.viewpager:viewpager:1.0.0"
+      folder="C:\Users\Acer Nitro 5\.gradle\caches\transforms-3\52731d36457b652527ddd3f03d369a99\transformed\viewpager-1.0.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="androidx.loader:loader:1.0.0@aar"
+      jars="C:\Users\Acer Nitro 5\.gradle\caches\transforms-3\3fbceba73d68e3df87a362e654a1f662\transformed\loader-1.0.0\jars\classes.jar"
+      resolved="androidx.loader:loader:1.0.0"
+      folder="C:\Users\Acer Nitro 5\.gradle\caches\transforms-3\3fbceba73d68e3df87a362e654a1f662\transformed\loader-1.0.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="androidx.activity:activity:1.0.0@aar"
+      jars="C:\Users\Acer Nitro 5\.gradle\caches\transforms-3\ec797cea626e928e38c1ac5f7e9b5ca4\transformed\jetified-activity-1.0.0\jars\classes.jar"
+      resolved="androidx.activity:activity:1.0.0"
+      folder="C:\Users\Acer Nitro 5\.gradle\caches\transforms-3\ec797cea626e928e38c1ac5f7e9b5ca4\transformed\jetified-activity-1.0.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="androidx.customview:customview:1.0.0@aar"
+      jars="C:\Users\Acer Nitro 5\.gradle\caches\transforms-3\4f47ffa4790b54f1a4037307e1bbf1d8\transformed\customview-1.0.0\jars\classes.jar"
+      resolved="androidx.customview:customview:1.0.0"
+      folder="C:\Users\Acer Nitro 5\.gradle\caches\transforms-3\4f47ffa4790b54f1a4037307e1bbf1d8\transformed\customview-1.0.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="androidx.core:core:1.6.0@aar"
+      jars="C:\Users\Acer Nitro 5\.gradle\caches\transforms-3\1377ecc082df76fa18d0a5c00a428a5e\transformed\core-1.6.0\jars\classes.jar"
+      resolved="androidx.core:core:1.6.0"
+      folder="C:\Users\Acer Nitro 5\.gradle\caches\transforms-3\1377ecc082df76fa18d0a5c00a428a5e\transformed\core-1.6.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="androidx.versionedparcelable:versionedparcelable:1.1.1@aar"
+      jars="C:\Users\Acer Nitro 5\.gradle\caches\transforms-3\d3d0ee45eb2182951a42b71a33e8c48b\transformed\versionedparcelable-1.1.1\jars\classes.jar"
+      resolved="androidx.versionedparcelable:versionedparcelable:1.1.1"
+      folder="C:\Users\Acer Nitro 5\.gradle\caches\transforms-3\d3d0ee45eb2182951a42b71a33e8c48b\transformed\versionedparcelable-1.1.1"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="androidx.collection:collection:1.1.0@jar"
+      jars="C:\Users\Acer Nitro 5\.gradle\caches\modules-2\files-2.1\androidx.collection\collection\1.1.0\1f27220b47669781457de0d600849a5de0e89909\collection-1.1.0.jar"
+      resolved="androidx.collection:collection:1.1.0"/>
+  <library
+      name="androidx.lifecycle:lifecycle-common-java8:2.2.0@jar"
+      jars="C:\Users\Acer Nitro 5\.gradle\caches\modules-2\files-2.1\androidx.lifecycle\lifecycle-common-java8\2.2.0\cd3478503da69b1a7e0319bd2d1389943db9b364\lifecycle-common-java8-2.2.0.jar"
+      resolved="androidx.lifecycle:lifecycle-common-java8:2.2.0"/>
+  <library
+      name="androidx.lifecycle:lifecycle-runtime:2.2.0@aar"
+      jars="C:\Users\Acer Nitro 5\.gradle\caches\transforms-3\f6c9a2364267ea85f4b216fb7a99bc32\transformed\lifecycle-runtime-2.2.0\jars\classes.jar"
+      resolved="androidx.lifecycle:lifecycle-runtime:2.2.0"
+      folder="C:\Users\Acer Nitro 5\.gradle\caches\transforms-3\f6c9a2364267ea85f4b216fb7a99bc32\transformed\lifecycle-runtime-2.2.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="androidx.savedstate:savedstate:1.0.0@aar"
+      jars="C:\Users\Acer Nitro 5\.gradle\caches\transforms-3\d2645c15d8801b31770948a8129f86b2\transformed\jetified-savedstate-1.0.0\jars\classes.jar"
+      resolved="androidx.savedstate:savedstate:1.0.0"
+      folder="C:\Users\Acer Nitro 5\.gradle\caches\transforms-3\d2645c15d8801b31770948a8129f86b2\transformed\jetified-savedstate-1.0.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="androidx.lifecycle:lifecycle-livedata:2.0.0@aar"
+      jars="C:\Users\Acer Nitro 5\.gradle\caches\transforms-3\7650d3773ed93614f44fb3bce31ac345\transformed\lifecycle-livedata-2.0.0\jars\classes.jar"
+      resolved="androidx.lifecycle:lifecycle-livedata:2.0.0"
+      folder="C:\Users\Acer Nitro 5\.gradle\caches\transforms-3\7650d3773ed93614f44fb3bce31ac345\transformed\lifecycle-livedata-2.0.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="androidx.lifecycle:lifecycle-livedata-core:2.0.0@aar"
+      jars="C:\Users\Acer Nitro 5\.gradle\caches\transforms-3\83152c548fd04c9fbe90acbd9a3047ce\transformed\lifecycle-livedata-core-2.0.0\jars\classes.jar"
+      resolved="androidx.lifecycle:lifecycle-livedata-core:2.0.0"
+      folder="C:\Users\Acer Nitro 5\.gradle\caches\transforms-3\83152c548fd04c9fbe90acbd9a3047ce\transformed\lifecycle-livedata-core-2.0.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="androidx.lifecycle:lifecycle-common:2.2.0@jar"
+      jars="C:\Users\Acer Nitro 5\.gradle\caches\modules-2\files-2.1\androidx.lifecycle\lifecycle-common\2.2.0\4ef09a745007778eef83b92f8f23987a8ea59496\lifecycle-common-2.2.0.jar"
+      resolved="androidx.lifecycle:lifecycle-common:2.2.0"/>
+  <library
+      name="androidx.arch.core:core-runtime:2.0.0@aar"
+      jars="C:\Users\Acer Nitro 5\.gradle\caches\transforms-3\9faccae57c2c2ba35cb80b2644636f4e\transformed\core-runtime-2.0.0\jars\classes.jar"
+      resolved="androidx.arch.core:core-runtime:2.0.0"
+      folder="C:\Users\Acer Nitro 5\.gradle\caches\transforms-3\9faccae57c2c2ba35cb80b2644636f4e\transformed\core-runtime-2.0.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="androidx.arch.core:core-common:2.1.0@jar"
+      jars="C:\Users\Acer Nitro 5\.gradle\caches\modules-2\files-2.1\androidx.arch.core\core-common\2.1.0\b3152fc64428c9354344bd89848ecddc09b6f07e\core-common-2.1.0.jar"
+      resolved="androidx.arch.core:core-common:2.1.0"/>
+  <library
+      name="androidx.lifecycle:lifecycle-viewmodel:2.1.0@aar"
+      jars="C:\Users\Acer Nitro 5\.gradle\caches\transforms-3\b89023fcbc3bf281c0c8fb52901a1f15\transformed\lifecycle-viewmodel-2.1.0\jars\classes.jar"
+      resolved="androidx.lifecycle:lifecycle-viewmodel:2.1.0"
+      folder="C:\Users\Acer Nitro 5\.gradle\caches\transforms-3\b89023fcbc3bf281c0c8fb52901a1f15\transformed\lifecycle-viewmodel-2.1.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="androidx.annotation:annotation:1.3.0@jar"
+      jars="C:\Users\Acer Nitro 5\.gradle\caches\modules-2\files-2.1\androidx.annotation\annotation\1.3.0\21f49f5f9b85fc49de712539f79123119740595\annotation-1.3.0.jar"
+      resolved="androidx.annotation:annotation:1.3.0"/>
+  <library
+      name="androidx.annotation:annotation-experimental:1.1.0@aar"
+      jars="C:\Users\Acer Nitro 5\.gradle\caches\transforms-3\b182db743e695f0f9ae8464d5b438870\transformed\jetified-annotation-experimental-1.1.0\jars\classes.jar"
+      resolved="androidx.annotation:annotation-experimental:1.1.0"
+      folder="C:\Users\Acer Nitro 5\.gradle\caches\transforms-3\b182db743e695f0f9ae8464d5b438870\transformed\jetified-annotation-experimental-1.1.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="androidx.tracing:tracing:1.0.0@aar"
+      jars="C:\Users\Acer Nitro 5\.gradle\caches\transforms-3\76ac74eb722487a1dc955d693b9c0c92\transformed\jetified-tracing-1.0.0\jars\classes.jar"
+      resolved="androidx.tracing:tracing:1.0.0"
+      folder="C:\Users\Acer Nitro 5\.gradle\caches\transforms-3\76ac74eb722487a1dc955d693b9c0c92\transformed\jetified-tracing-1.0.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="org.jetbrains.kotlin:kotlin-stdlib:1.6.10@jar"
+      jars="C:\Users\Acer Nitro 5\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib\1.6.10\b8af3fe6f1ca88526914929add63cf5e7c5049af\kotlin-stdlib-1.6.10.jar"
+      resolved="org.jetbrains.kotlin:kotlin-stdlib:1.6.10"/>
+  <library
+      name="org.jetbrains:annotations:13.0@jar"
+      jars="C:\Users\Acer Nitro 5\.gradle\caches\modules-2\files-2.1\org.jetbrains\annotations\13.0\919f0dfe192fb4e063e7dacadee7f8bb9a2672a9\annotations-13.0.jar"
+      resolved="org.jetbrains:annotations:13.0"/>
+  <library
+      name="org.jetbrains.kotlin:kotlin-stdlib-common:1.6.10@jar"
+      jars="C:\Users\Acer Nitro 5\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib-common\1.6.10\c118700e3a33c8a0d9adc920e9dec0831171925\kotlin-stdlib-common-1.6.10.jar"
+      resolved="org.jetbrains.kotlin:kotlin-stdlib-common:1.6.10"/>
+  <library
+      name="com.google.firebase:firebase-auth:21.0.7@aar"
+      jars="C:\Users\Acer Nitro 5\.gradle\caches\transforms-3\3f877804140b4e2bc4d0da3a47e81e1d\transformed\jetified-firebase-auth-21.0.7\jars\classes.jar"
+      resolved="com.google.firebase:firebase-auth:21.0.7"
+      folder="C:\Users\Acer Nitro 5\.gradle\caches\transforms-3\3f877804140b4e2bc4d0da3a47e81e1d\transformed\jetified-firebase-auth-21.0.7"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="com.google.firebase:firebase-database:20.0.5@aar"
+      jars="C:\Users\Acer Nitro 5\.gradle\caches\transforms-3\61f063303996e78672cd6a5dcfe0c72c\transformed\jetified-firebase-database-20.0.5\jars\classes.jar"
+      resolved="com.google.firebase:firebase-database:20.0.5"
+      folder="C:\Users\Acer Nitro 5\.gradle\caches\transforms-3\61f063303996e78672cd6a5dcfe0c72c\transformed\jetified-firebase-database-20.0.5"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="com.google.firebase:firebase-auth-interop:20.0.0@aar"
+      jars="C:\Users\Acer Nitro 5\.gradle\caches\transforms-3\008b9c951851cd37c45d2f9e7ba22ff9\transformed\jetified-firebase-auth-interop-20.0.0\jars\classes.jar"
+      resolved="com.google.firebase:firebase-auth-interop:20.0.0"
+      folder="C:\Users\Acer Nitro 5\.gradle\caches\transforms-3\008b9c951851cd37c45d2f9e7ba22ff9\transformed\jetified-firebase-auth-interop-20.0.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="com.google.firebase:firebase-appcheck-interop:16.0.0@aar"
+      jars="C:\Users\Acer Nitro 5\.gradle\caches\transforms-3\9245305e913adc0b724d3ae0cdabe45e\transformed\jetified-firebase-appcheck-interop-16.0.0\jars\classes.jar"
+      resolved="com.google.firebase:firebase-appcheck-interop:16.0.0"
+      folder="C:\Users\Acer Nitro 5\.gradle\caches\transforms-3\9245305e913adc0b724d3ae0cdabe45e\transformed\jetified-firebase-appcheck-interop-16.0.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="com.google.firebase:firebase-common:20.1.1@aar"
+      jars="C:\Users\Acer Nitro 5\.gradle\caches\transforms-3\5882a8c0218fa297639de0cab1596f65\transformed\jetified-firebase-common-20.1.1\jars\classes.jar"
+      resolved="com.google.firebase:firebase-common:20.1.1"
+      folder="C:\Users\Acer Nitro 5\.gradle\caches\transforms-3\5882a8c0218fa297639de0cab1596f65\transformed\jetified-firebase-common-20.1.1"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="com.google.android.gms:play-services-auth-api-phone:17.4.0@aar"
+      jars="C:\Users\Acer Nitro 5\.gradle\caches\transforms-3\ff0c498cc566515a47fd38fbdd20d1d6\transformed\jetified-play-services-auth-api-phone-17.4.0\jars\classes.jar"
+      resolved="com.google.android.gms:play-services-auth-api-phone:17.4.0"
+      folder="C:\Users\Acer Nitro 5\.gradle\caches\transforms-3\ff0c498cc566515a47fd38fbdd20d1d6\transformed\jetified-play-services-auth-api-phone-17.4.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="com.google.android.gms:play-services-safetynet:17.0.0@aar"
+      jars="C:\Users\Acer Nitro 5\.gradle\caches\transforms-3\ab60c15327dee4c544023f72fe3b581d\transformed\jetified-play-services-safetynet-17.0.0\jars\classes.jar"
+      resolved="com.google.android.gms:play-services-safetynet:17.0.0"
+      folder="C:\Users\Acer Nitro 5\.gradle\caches\transforms-3\ab60c15327dee4c544023f72fe3b581d\transformed\jetified-play-services-safetynet-17.0.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="com.google.firebase:firebase-database-collection:18.0.1@aar"
+      jars="C:\Users\Acer Nitro 5\.gradle\caches\transforms-3\578079b8087c1fcea574bf25b1e60e6c\transformed\jetified-firebase-database-collection-18.0.1\jars\classes.jar"
+      resolved="com.google.firebase:firebase-database-collection:18.0.1"
+      folder="C:\Users\Acer Nitro 5\.gradle\caches\transforms-3\578079b8087c1fcea574bf25b1e60e6c\transformed\jetified-firebase-database-collection-18.0.1"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="com.google.android.gms:play-services-base:18.0.1@aar"
+      jars="C:\Users\Acer Nitro 5\.gradle\caches\transforms-3\e14b72aaf6d6622c6b1e6c2e1f0f5be8\transformed\jetified-play-services-base-18.0.1\jars\classes.jar"
+      resolved="com.google.android.gms:play-services-base:18.0.1"
+      folder="C:\Users\Acer Nitro 5\.gradle\caches\transforms-3\e14b72aaf6d6622c6b1e6c2e1f0f5be8\transformed\jetified-play-services-base-18.0.1"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="com.google.android.gms:play-services-tasks:18.0.1@aar"
+      jars="C:\Users\Acer Nitro 5\.gradle\caches\transforms-3\8546639fcf5ae15dd627211a3b0f0ec4\transformed\jetified-play-services-tasks-18.0.1\jars\classes.jar"
+      resolved="com.google.android.gms:play-services-tasks:18.0.1"
+      folder="C:\Users\Acer Nitro 5\.gradle\caches\transforms-3\8546639fcf5ae15dd627211a3b0f0ec4\transformed\jetified-play-services-tasks-18.0.1"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="com.google.android.gms:play-services-basement:18.0.0@aar"
+      jars="C:\Users\Acer Nitro 5\.gradle\caches\transforms-3\7a40f7771e6fe7310d328c9c8c840352\transformed\jetified-play-services-basement-18.0.0\jars\classes.jar"
+      resolved="com.google.android.gms:play-services-basement:18.0.0"
+      folder="C:\Users\Acer Nitro 5\.gradle\caches\transforms-3\7a40f7771e6fe7310d328c9c8c840352\transformed\jetified-play-services-basement-18.0.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="androidx.browser:browser:1.4.0@aar"
+      jars="C:\Users\Acer Nitro 5\.gradle\caches\transforms-3\33bff2b79f5a68c988cfc0a545303581\transformed\browser-1.4.0\jars\classes.jar"
+      resolved="androidx.browser:browser:1.4.0"
+      folder="C:\Users\Acer Nitro 5\.gradle\caches\transforms-3\33bff2b79f5a68c988cfc0a545303581\transformed\browser-1.4.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="com.google.firebase:firebase-components:17.0.0@aar"
+      jars="C:\Users\Acer Nitro 5\.gradle\caches\transforms-3\aa826e2ed0a7bf5e5f3622714130d5a4\transformed\jetified-firebase-components-17.0.0\jars\classes.jar"
+      resolved="com.google.firebase:firebase-components:17.0.0"
+      folder="C:\Users\Acer Nitro 5\.gradle\caches\transforms-3\aa826e2ed0a7bf5e5f3622714130d5a4\transformed\jetified-firebase-components-17.0.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="androidx.localbroadcastmanager:localbroadcastmanager:1.0.0@aar"
+      jars="C:\Users\Acer Nitro 5\.gradle\caches\transforms-3\c87e34a20654240744a197902ada6f79\transformed\localbroadcastmanager-1.0.0\jars\classes.jar"
+      resolved="androidx.localbroadcastmanager:localbroadcastmanager:1.0.0"
+      folder="C:\Users\Acer Nitro 5\.gradle\caches\transforms-3\c87e34a20654240744a197902ada6f79\transformed\localbroadcastmanager-1.0.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="androidx.concurrent:concurrent-futures:1.0.0@jar"
+      jars="C:\Users\Acer Nitro 5\.gradle\caches\modules-2\files-2.1\androidx.concurrent\concurrent-futures\1.0.0\c1e77e3ee6f4643b77496a1ddf7a2eef1aefdaa1\concurrent-futures-1.0.0.jar"
+      resolved="androidx.concurrent:concurrent-futures:1.0.0"/>
+  <library
+      name="androidx.interpolator:interpolator:1.0.0@aar"
+      jars="C:\Users\Acer Nitro 5\.gradle\caches\transforms-3\31cde4db919c5c215551acc03e1fa13d\transformed\interpolator-1.0.0\jars\classes.jar"
+      resolved="androidx.interpolator:interpolator:1.0.0"
+      folder="C:\Users\Acer Nitro 5\.gradle\caches\transforms-3\31cde4db919c5c215551acc03e1fa13d\transformed\interpolator-1.0.0"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="com.google.firebase:firebase-annotations:16.0.0@jar"
+      jars="C:\Users\Acer Nitro 5\.gradle\caches\modules-2\files-2.1\com.google.firebase\firebase-annotations\16.0.0\dbeae20d6c97b747b59ef47b6dcf770ba1a60fa6\firebase-annotations-16.0.0.jar"
+      resolved="com.google.firebase:firebase-annotations:16.0.0"/>
+  <library
+      name="com.google.guava:listenablefuture:1.0@jar"
+      jars="C:\Users\Acer Nitro 5\.gradle\caches\modules-2\files-2.1\com.google.guava\listenablefuture\1.0\c949a840a6acbc5268d088e47b04177bf90b3cad\listenablefuture-1.0.jar"
+      resolved="com.google.guava:listenablefuture:1.0"/>
+</libraries>

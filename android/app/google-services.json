@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "405031761559",
+    "firebase_url": "https://rtddeneme-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "rtddeneme",
+    "storage_bucket": "rtddeneme.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405031761559:android:dd3850d0d52dc8e2eb9bd2",
+        "android_client_info": {
+          "package_name": "com.example.sqflite_todo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "405031761559-ba9q2qhkk4qqm816j44poq8r2gm8rkes.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sqflite_todo",
+            "certificate_hash": "0070ec3b406c5f71d3f33b585cb04dcb4f7d13f9"
+          }
+        },
+        {
+          "client_id": "405031761559-har6vod5fmleq0n3ovf4v7rod94llrip.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLyo88yAypI1Uz1wjbsEe-btUU5mA2fz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "405031761559-har6vod5fmleq0n3ovf4v7rod94llrip.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
