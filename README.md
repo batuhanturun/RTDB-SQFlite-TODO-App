@@ -1,6 +1,6 @@
 # sqflite_todo
 
-A new Flutter project.
+Firebase Realtime Database, SQFlite
 
 ## Getting Started
 
