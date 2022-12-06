@@ -1,6 +1,6 @@
 # sqflite_todo
 
-Firebase Realtime Database, SQFlite
+Firebase Realtime Database, SQFlite, Flutter v3
 
 ## Getting Started
 
